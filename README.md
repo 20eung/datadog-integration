@@ -1,4 +1,4 @@
-# Datadog AWS/Azure Integration Update
+# Datadog Azure Integration Update
 
 ## 1. Azure Integration 기간 연장 방법
 
